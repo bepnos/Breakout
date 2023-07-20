@@ -2,8 +2,7 @@
 This repo contains 3 executable jar files for different iterations of the Atari game "Breakout", due to the fact that I developed this as part of a project for university I am unfortunately not allowed to share the source code and this is why there are only the compiled executables. Requires atleast JDK-17 to run correctly, note that the game is not fairly balanced as this was not the main focus of this project.
 
 ## Iteration 1 
-A very basic impl
-ementation of the breakout game serves as a template for the further iterations. 
+A very basic implementation of the breakout game serves as a template for the further iterations. 
 
 ![iteration1](https://github.com/bepnos/Breakout/assets/80769012/6df02f08-4c04-4d34-9282-c241135e9534)
 
